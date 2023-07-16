@@ -4,6 +4,7 @@ metadata:
   name: qod
   namespace: qod
 spec:
+  host: web-demo-apps.virtus-demo.com
   path: /
   to:
     kind: Service
